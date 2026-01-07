@@ -54,7 +54,7 @@ The uppercase subscripts denote spatial distribution images. The numeric suffixe
     * **Cold-gas spin**: Defined as $\lambda_{gas} = j_{gas}(<R_{90,*}) / (\sqrt{2} R_{vir} V_{vir})$.
 * **Panel c**: The **angular momentum-energy phase space** of Type I young bound stars.
 * **Panel d**: The **Star Formation Rate (SFR)** for the total system, bulge, thick disk, thin disk, and extended stars.
-* **Panel e**: Mass fractions of the **bulge, thick disk, and thin disk** (excluding extended stars).
+* **Panel e**: Mass fractions of the young **bulge, thick disk, and thin disk** stars (excluding extended stars).
 * **Panel f**: Size evolution of the **halo** ($R_{vir}$), **galaxy**, and **bulge** ($R_{50}$).
 * **Panel g**: The **radial distribution** of young stars (bulge, thick disk, thin disk, and extended), normalized by the virial radius ($R_{vir}$).
 * **Panel h**: Distributions of the **current** $j_z/j_c$ and the $j_z/j_c$ **at the time of formation** for Type II stars. This panel distinguishes whether stars at a specific redshift were "**born hot/cold**" or if they kinematically evolved over time.
