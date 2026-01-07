@@ -17,6 +17,12 @@ There are two distinct definitions used in this study:
 
 ### **Morphological Classification**
 Morphological analysis is conducted exclusively for **Type II** stars. The classification is based on the circularity parameter $j_z/j_c$:
+
+Note that range is defined the calculation radius as Ruse = \max(10kpc, 2R50). 
+Disk direction is defined as follow: 
+I first determined the z-direction based on Ruse. Then, I recalculated the z-direction using only particles with $j_z/j_c > 0.25$ (indicated by the pink arrow). The original z-direction is marked by blue arrow in Panel A1/A2. These arrows represent the orientation of the particles' angular momentum relative to the x, y, z coordinate system; 
+Here I don't adopt the default velocity center as set by Swiftgalaxy, but I recalculate the velocity center inside the Ruse.
+
 * **Bulge**: Particles with $j_z/j_c < 0$ are assigned to the bulge. To maintain a symmetric spheroidal component, an equivalent number of particles with $j_z/j_c > 0$ are randomly assigned to the bulge as well.
 * **Thin Disk**: Defined by particles with $j_z/j_c > 0.7$.
 * **Thick Disk**: Includes the remaining stars after the bulge and thin disk components are removed.
