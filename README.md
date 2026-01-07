@@ -1,4 +1,4 @@
-# Colibre_simulation
+# Colibre simulation
 # Figure Annotations and Definitions
 
 To ensure clarity regarding the various definitions used in this analysis, the following annotations describe the criteria and content for each figure and panel.
